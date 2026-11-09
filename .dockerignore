@@ -1,0 +1,11 @@
+# Build context is the repository root for both application images.
+.git
+**/target/
+**/node_modules/
+**/.next/
+**/out/
+**/coverage/
+.env
+.env.*
+!.env.example
+.DS_Store
