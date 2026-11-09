@@ -1,0 +1,6 @@
+openapi: 3.0.3
+info:
+  title: Eldrev Catalog Service API
+  description: OpenAPI contract for the Eldrev catalog service.
+  version: 0.1.0
+paths: {}
